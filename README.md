@@ -2,7 +2,7 @@
 
 * :man_technologist: I'm an aspiring Software Engineer/Developer
 * :computer: I'm learning web development thorugh [The Odin Project's Full Stack JavaScript Curriculum](https://www.theodinproject.com/paths)
-* :books: I'm currently focused on improving my backend skillset including NodeJS MongoDB and Express
+* :books: I'm currently focused on improving my backend skillset including NodeJS, MongoDB, and Express
 * 💬 Ask me about anything
 * :incoming_envelope: Reach me at zflegle3@gmail.com
 * :open_file_folder: [Checkout my portfolio here!](https://zflegle3.github.io/portfolio-22/)
