@@ -5,7 +5,7 @@
 * :books:  I'm currently focused on improving my backend skillset including NodeJS, MongoDB, and Express
 * 💬  Ask me about anything
 * :incoming_envelope:  Reach me at zflegle3@gmail.com
-* :pencil2:  Leave some feedback on my [FrontEndMentor.io](https://www.frontendmentor.io/profile/zflegle3) solitions
+* :pencil2:  Leave some feedback on my [FrontEndMentor.io](https://www.frontendmentor.io/profile/zflegle3) challenge solitions
 * :open_file_folder:  [Checkout my portfolio here!](https://zflegle3.github.io/portfolio-22/)
  
 
