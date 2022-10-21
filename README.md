@@ -1,11 +1,12 @@
 ### Hi there, I'm Zach Flegle 👋
 
-* :man_technologist: I'm a Software Engineer/Developer
-* :computer: I'm learning web development through [The Odin Project's Full Stack JavaScript Curriculum](https://www.theodinproject.com/paths)
-* :books: I'm currently focused on improving my backend skillset including NodeJS, MongoDB, and Express
-* 💬 Ask me about anything
-* :incoming_envelope: Reach me at zflegle3@gmail.com
-* :open_file_folder: [Checkout my portfolio here!](https://zflegle3.github.io/portfolio-22/)
+* :man_technologist:  I'm a Software Engineer/Developer
+* :computer:  I'm learning web development through [The Odin Project's Full Stack JavaScript Curriculum](https://www.theodinproject.com/paths)
+* :books:  I'm currently focused on improving my backend skillset including NodeJS, MongoDB, and Express
+* 💬  Ask me about anything
+* :incoming_envelope:  Reach me at zflegle3@gmail.com
+* :pencil2:  Leave me some feedback on my [FrontEndMentor.io](https://www.frontendmentor.io/profile/zflegle3) solitions
+* :open_file_folder:  [Checkout my portfolio here!](https://zflegle3.github.io/portfolio-22/)
  
 
 <!--
