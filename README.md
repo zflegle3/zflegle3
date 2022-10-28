@@ -1,6 +1,6 @@
 ### Hi there, I'm Zach Flegle 👋
 
-* :man_technologist:  I'm a Software Engineer/Developer
+* :man_technologist:  I'm a Software Engineer
 * :computer:  I'm learning web development through [The Odin Project's Full Stack JavaScript Curriculum](https://www.theodinproject.com/paths)
 * :books:  I'm currently focused on improving my backend skillset including NodeJS, MongoDB, and Express
 * 💬  Ask me about anything
