@@ -6,7 +6,7 @@
 * 💬  Ask me about anything
 * :incoming_envelope:  Reach me at zflegle3@gmail.com
 * :pencil2:  Leave some feedback on my [FrontEndMentor.io](https://www.frontendmentor.io/profile/zflegle3) challenge solutions
-* :open_file_folder:  [Checkout my portfolio here!](https://zflegle3.github.io/portfolio-22/)
+* :open_file_folder:  [Checkout my portfolio here!](https://zflegle3.github.io/portfolio/)
  
 
 <!--
