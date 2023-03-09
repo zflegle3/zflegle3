@@ -1,8 +1,8 @@
 ### Hi there, I'm Zach Flegle 👋
 
 * :man_technologist:  I'm a Software Engineer
-* :computer:  I'm learning web development through [The Odin Project's Full Stack JavaScript Curriculum](https://www.theodinproject.com/paths)
-* :books:  I'm currently focused on improving my backend skillset including NodeJS, MongoDB, and Express
+<!-- * :computer:  I'm learning web development through [The Odin Project's Full Stack JavaScript Curriculum](https://www.theodinproject.com/paths)
+* :books:  I'm currently focused on improving my backend skillset including NodeJS, MongoDB, and Express -->
 * 💬  Ask me about anything
 * :incoming_envelope:  Reach me at zflegle3@gmail.com
 * :pencil2:  Leave some feedback on my [FrontEndMentor.io](https://www.frontendmentor.io/profile/zflegle3) challenge solutions
