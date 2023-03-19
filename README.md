@@ -2,9 +2,14 @@
 
 * :man_technologist:  I'm a Software Engineer
 * 💬  Ask me about anything
+* :busts_in_silhouette: I'd love to collaborate on a new project
 * :incoming_envelope:  Reach me at zflegle3@gmail.com
 * :pencil2:  Leave some feedback on my [FrontEndMentor.io](https://www.frontendmentor.io/profile/zflegle3) challenge solutions
 * :open_file_folder:  [Checkout my portfolio here!](https://zflegle3.github.io/portfolio/)
+
+<!-- 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zflegle3&theme=tokyonight)
+![Zach's GitHub stats](https://github-readme-stats.vercel.app/api?username=zflegle3&show_icons=true&theme=radical) -->
  
  
  <!-- * :computer:  I'm learning web development through [The Odin Project's Full Stack JavaScript Curriculum](https://www.theodinproject.com/paths)
